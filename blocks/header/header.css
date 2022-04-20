@@ -1,0 +1,23 @@
+.header {
+  width: calc(100% - 96px);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding-top: 28px;
+  box-sizing: content-box;
+}
+
+@media (min-width: 321px) and (max-width: 768px) {
+  .header {
+    width: calc(100% - 48px);
+    padding-top: calc((100vw - 321px) / (768 - 321) * (28 - 16) + 16px);
+  }
+}
+
+@media (max-width: 320px) {
+  .header {
+    width: calc(100% - 32px);
+    padding-top: 16px;
+  }
+}
