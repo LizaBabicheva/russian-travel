@@ -9,4 +9,4 @@
 * Grid Layout;
 * Flexbox.
 
-Посмотреть проект: https://lizababicheva.github.io/russian-travel/
+Посмотреть проект: https://lizababicheva.github.io/russian-travel/index.html
