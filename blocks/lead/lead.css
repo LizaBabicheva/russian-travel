@@ -8,21 +8,14 @@
   padding: 56px 0 0;
 }
 
+@media (max-width: 1024px) {
+  .lead {
+    padding-top: 48px;
+  }
+}
+
 @media (min-width: 769px) and (max-width: 1024px) {
   .lead {
-    padding-top: 48px;
     width: calc(100% - 96px);
-  }
-}
-
-@media (min-width: 321px) and (max-width: 768px) {
-  .lead {
-    padding-top: 48px;
-  }
-}
-
-@media (max-width: 320px) {
-  .lead {
-    padding-top: 48px;
   }
 }
