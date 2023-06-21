@@ -13,9 +13,13 @@
 * Flexbox
 * Bem Nested
 
+## Планы по доработке
+* Добавить светлую тему
+* Добавить англоязычную версию
+
 ## Запуск проекта
 Клонировать репозиторий git clone git@github.com:LizaBabicheva/russian-travel.git  
 Запустить с помощью LiveServer  
 
 ## Ссылки
-Посмотреть проект: https://lizababicheva.github.io/russian-travel/index.html
+Посмотреть проект можно [здесь](https://lizababicheva.github.io/russian-travel/index.html)
